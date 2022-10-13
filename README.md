@@ -34,8 +34,6 @@ Fit the model and predict the sample input.
 ## PROGRAM
 
 ```python
-# Developed By: LOKESH KRISHNAA M
-# Register Number:212220230030
 
 import os
 import pandas as pd
